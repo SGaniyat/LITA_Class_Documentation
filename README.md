@@ -10,11 +10,12 @@ An E-Commerce Sales Analysis typically involves evaluating data and trends relat
 The primary source of Data used here is Data Sale.csv and tis is an open source of data that can be freely downloaded from an open source online such as Kaggle or Fred or any other data repository site.
 
 ### Tool Used
-- Microsoft Excel
+- Microsoft Excel[Download Here](https://microsoft.com)
   1. Data Cleaning
   2. Analysis
-  3. Vitualization
+  3. Data Vitualization
 - SQL-Strutured Query Language for quering of Data
 - GitHub for Portfolio Building
- 
+
+
 
