@@ -43,5 +43,7 @@ Select * FROM TABLE1
 WHERE CONDITION =TRUE
 ```
 
+### Data Visualization
 
+🥉
 
